@@ -40,3 +40,8 @@ x [*] :=
 ;
 ```
 Donde la columna izquierda "x" representa a cada vertice del grafo, mientras que la columna derecha "[*]" muestra valores booleanos para verificar si un vertice forma parte de la solucion o no. Para este caso la cobertura minima optima que ha encontrado esta compuesta por los vertices {1,3,4}.
+### VertexCover en Mathlab
+De la misma manera que los codigos anteriores, el codigo desarrollado en *Mathlab* plantea un grafo G con sus respectivos vertices y aristas, para ser luego graficado. Si bien la grafica a continuacion es acorde a lo esperado, no son asi los resultados, requiere un repaso. [vertexCover.m](vertexCover.m).
+<p align="center">
+  <img src="https://github.com/Matii111/Vertex-cover/blob/master/imgs/mathWorks.png">
+</p>
