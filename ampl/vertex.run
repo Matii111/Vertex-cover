@@ -1,0 +1,6 @@
+reset;
+model vertex.mod;
+data vertex.dat;
+option solver cplex;
+solve;
+display x;
